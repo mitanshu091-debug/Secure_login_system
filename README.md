@@ -47,8 +47,3 @@ This project provides a simple but secure login system with:
 - Consider adding 2FA in the future
 - Keep your dependencies updated regularly
 
-## 🚀 Future Enhancements
-- Two-factor authentication (2FA)
-- Password reset functionality
-- Email verification
-- Database migration from JSON to MySQL/PostgreSQL
