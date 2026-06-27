@@ -1,0 +1,15 @@
+{
+  "name": "secure-login-system",
+  "version": "1.0.0",
+  "description": "A secure login web app with hashed passwords and sessions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "ejs": "^3.1.0",
+    "express": "^4.19.2",
+    "express-session": "^1.5.0"
+  }
+}
